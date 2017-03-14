@@ -1,0 +1,13 @@
+#PitchNum,PitchName,LowSpeed,HighSpeed,StartDir,EndDir,BreakFactor
+0,4-Seam Fastball,85,100,12,6,0.1
+1,2-Seam Fastball,80,90,12,8,0.3
+2,Cutter,85,95,9,3,0.6
+3,Splitter,80,90,12,6,0.5
+4,Curve,70,80,12,6,0.8
+5,Forkball,75,85,12,6,0.5
+6,Slider,80,90,10,4,0.6
+7,Slurve,70,80,11,5,0.7
+8,Screwball,65,75,12,6,0.7
+9,Changeup,70,85,12,6,0.3
+10,Palmball,65,75,1,7,0.5
+11,Circle Change,70,80,1,7,0.4

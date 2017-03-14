@@ -1,0 +1,5 @@
+150 games
+
+40 in-div.   |10 games/div team
+80 in-league |8 games/league team
+30 IL        |2 games/IL team

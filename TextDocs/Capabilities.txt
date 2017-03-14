@@ -1,0 +1,28 @@
+Hitting					Pitching				Fielding				Overall						Essentials
+==============================================================================================================
+Power					Stamina					Range					Composure					Height
+Contact					Arm Strength			Glove					Judgment					Weight
+Bat Speed				Arm Speed				Throw Range				Reaction					Birthdate
+Pitch Recognition		Pitch Accuracy			Throw Speed				Memory						Name
+Bunt					Spin					Accuracy				Run Speed					Bats
+						Focus					Jump/Dive				Acceleration				Throws
+						Pickoff											Slide						Position
+																		Awareness
+																		Patience
+
+
+
+
+Personality
+===========================================================================
+Trait		|Level 1		2			3			4			5		
+===========================================================================
+Ego			|Self-Effacing	Humble		Considerate	Braggart	Egomaniac
+Discipline	|Meticulous		Trained		Easygoing	Unruly		Wild
+Temper		|Submissive		Accepting	Mild		Belligerent	Explosive
+Tolerance	|Welcoming		Open-Minded	Indifferent	Prejudiced	Bigoted
+Attitude	|Cheery			Happy		Positive	Gloomy		Morose
+Personality	|Magnetic		Affable		Ordinary	Abrasive	Boorish
+Leadership	|Dominant		Influential	Respected	Subordinate	Ineffectual
+Religion	|Atheist		Agnostic	Spiritual	Faithful	Zealot
+Intellect	|Brilliant		Educated	Thoughtful	Obtuse		Ignorant

@@ -1,0 +1,3693 @@
+League Schedule
+=========================
+
+Day 0
+===========
+NI at ASH
+BAY at LEI
+DEF at BEL
+BRO at MAT
+CAL at PSH
+CHE at CAN
+FAI at TRU
+HB at GLE
+GRA at RET
+KEN at LYD
+LOC at WOL
+ORE at RTH
+PRS at STO
+PAY at STJ
+SC at WES
+
+Day 1
+===========
+ASH at DEF
+BRO at BAY
+BEL at RET
+FAI at CAL
+CAN at LYD
+CHE at WES
+RTH at GLE
+GRA at PSH
+HB at MAT
+LEI at KEN
+LOC at STJ
+SC at NI
+ORE at TRU
+PRS at STO
+WOL at PAY
+
+Day 2
+===========
+PSH at ASH
+BAY at STJ
+BEL at WOL
+RET at BRO
+CAL at RTH
+CAN at GLE
+CHE at STO
+DEF at ORE
+FAI at SC
+GRA at PAY
+LOC at HB
+LYD at KEN
+PRS at LEI
+TRU at MAT
+WES at NI
+
+Day 3
+===========
+LYD at ASH
+BAY at NI
+BEL at WES
+KEN at BRO
+CAL at FAI
+STJ at CAN
+RTH at CHE
+DEF at STO
+GLE at MAT
+GRA at HB
+LEI at PAY
+ORE at LOC
+TRU at PSH
+RET at PRS
+WOL at SC
+
+Day 4
+===========
+ASH at BAY
+PAY at BEL
+STJ at BRO
+CAL at RTH
+CAN at NI
+HB at CHE
+LOC at DEF
+FAI at STO
+PSH at GLE
+GRA at ORE
+KEN at MAT
+LEI at TRU
+WES at LYD
+SC at PRS
+WOL at RET
+
+Day 5
+===========
+ASH at RTH
+NI at BAY
+HB at BEL
+GLE at BRO
+CAL at PAY
+CAN at LOC
+CHE at KEN
+DEF at TRU
+ORE at FAI
+SC at GRA
+LYD at LEI
+MAT at WES
+PRS at PSH
+STO at RET
+WOL at STJ
+
+Day 6
+===========
+ASH at STJ
+BAY at HB
+BEL at RTH
+KEN at BRO
+PAY at CAL
+MAT at CAN
+GRA at CHE
+NI at DEF
+LEI at FAI
+STO at GLE
+RET at LOC
+LYD at WES
+PRS at ORE
+SC at PSH
+WOL at TRU
+
+Day 7
+===========
+ASH at CAL
+BAY at ORE
+BEL at BRO
+PSH at CAN
+RTH at CHE
+HB at DEF
+RET at FAI
+LEI at GLE
+GRA at STO
+KEN at PRS
+WOL at LOC
+PAY at LYD
+SC at MAT
+TRU at NI
+STJ at WES
+
+Day 8
+===========
+MAT at ASH
+BAY at FAI
+CAL at BEL
+BRO at PRS
+CAN at WES
+CHE at STO
+DEF at TRU
+LEI at GLE
+GRA at KEN
+WOL at HB
+LYD at LOC
+RET at NI
+STJ at ORE
+SC at PSH
+PAY at RTH
+
+Day 9
+===========
+CHE at ASH
+WOL at BAY
+BEL at PRS
+NI at BRO
+TRU at CAL
+HB at CAN
+GLE at DEF
+KEN at FAI
+GRA at MAT
+PSH at LEI
+LOC at STJ
+RET at LYD
+STO at ORE
+PAY at RTH
+SC at WES
+
+Day 10
+===========
+PRS at ASH
+WES at BAY
+PSH at BEL
+LEI at BRO
+LOC at CAL
+CAN at CHE
+MAT at DEF
+STO at FAI
+WOL at GLE
+SC at GRA
+LYD at HB
+KEN at RTH
+NI at PAY
+TRU at ORE
+RET at STJ
+
+Day 11
+===========
+ASH at MAT
+BAY at LEI
+BEL at LOC
+PSH at BRO
+CAL at HB
+CAN at DEF
+CHE at ORE
+TRU at FAI
+GLE at NI
+GRA at PRS
+KEN at RTH
+SC at LYD
+PAY at STJ
+STO at RET
+WOL at WES
+
+Day 12
+===========
+BRO at ASH
+WOL at BAY
+STO at BEL
+LEI at CAL
+CAN at RET
+GLE at CHE
+LOC at DEF
+FAI at PAY
+HB at GRA
+ORE at KEN
+LYD at STJ
+MAT at NI
+PSH at RTH
+TRU at PRS
+WES at SC
+
+Day 13
+===========
+FAI at ASH
+DEF at BAY
+HB at BEL
+BRO at CAN
+CAL at SC
+CHE at GRA
+GLE at LYD
+KEN at WES
+PRS at LEI
+PAY at LOC
+STJ at MAT
+RET at NI
+STO at ORE
+TRU at PSH
+RTH at WOL
+
+Day 14
+===========
+ASH at RTH
+BAY at FAI
+BEL at KEN
+BRO at NI
+CAL at PSH
+LYD at CAN
+PAY at CHE
+DEF at STO
+GLE at RET
+GRA at TRU
+WES at HB
+LEI at SC
+WOL at LOC
+PRS at MAT
+ORE at STJ
+
+Day 15
+===========
+DEF at ASH
+GLE at BAY
+BEL at SC
+BRO at GRA
+CAL at TRU
+CAN at PRS
+FAI at CHE
+STJ at HB
+KEN at PAY
+RTH at LEI
+NI at LOC
+ORE at LYD
+PSH at MAT
+RET at WES
+WOL at STO
+
+Day 16
+===========
+ASH at LOC
+BAY at STJ
+BEL at PAY
+RTH at BRO
+CAL at SC
+KEN at CAN
+CHE at NI
+DEF at GLE
+WES at FAI
+WOL at GRA
+HB at RET
+LYD at LEI
+MAT at STO
+TRU at ORE
+PSH at PRS
+
+Day 17
+===========
+ASH at CHE
+DEF at BAY
+ORE at BEL
+BRO at PRS
+CAL at MAT
+CAN at WOL
+FAI at KEN
+RET at GLE
+WES at GRA
+LYD at HB
+PSH at LEI
+LOC at RTH
+STO at NI
+PAY at STJ
+SC at TRU
+
+Day 18
+===========
+ASH at NI
+WOL at BAY
+KEN at BEL
+FAI at BRO
+CAL at CAN
+CHE at HB
+DEF at STJ
+MAT at GLE
+LOC at GRA
+STO at LEI
+PSH at LYD
+ORE at PAY
+WES at PRS
+RET at TRU
+RTH at SC
+
+Day 19
+===========
+ASH at RET
+PAY at BAY
+BEL at CHE
+STO at BRO
+CAL at GRA
+CAN at SC
+DEF at ORE
+FAI at LEI
+LOC at GLE
+MAT at HB
+WES at KEN
+LYD at WOL
+NI at STJ
+RTH at PSH
+TRU at PRS
+
+Day 20
+===========
+HB at ASH
+MAT at BAY
+LYD at BEL
+BRO at RET
+CAL at WES
+CAN at LEI
+LOC at CHE
+DEF at RTH
+STO at FAI
+GLE at PSH
+PRS at GRA
+ORE at KEN
+PAY at NI
+SC at TRU
+STJ at WOL
+
+Day 21
+===========
+ASH at BEL
+SC at BAY
+BRO at KEN
+CAL at LYD
+PRS at CAN
+RTH at CHE
+NI at DEF
+FAI at STO
+GLE at GRA
+STJ at HB
+LEI at PAY
+RET at LOC
+MAT at WOL
+WES at ORE
+PSH at REST
+TRU at REST
+
+Day 22
+===========
+HB at ASH
+BAY at CHE
+BEL at PAY
+BRO at PSH
+CAL at LEI
+CAN at GLE
+STJ at DEF
+FAI at STO
+GRA at PRS
+LYD at KEN
+MAT at LOC
+NI at TRU
+WES at ORE
+RTH at RET
+WOL at SC
+
+Day 23
+===========
+ASH at HB
+CAL at BAY
+LYD at BEL
+WES at BRO
+NI at CAN
+CHE at GRA
+DEF at STO
+FAI at SC
+ORE at GLE
+KEN at PAY
+PRS at LEI
+RET at LOC
+MAT at WOL
+PSH at RTH
+TRU at STJ
+
+Day 24
+===========
+ASH at BAY
+BEL at SC
+BRO at DEF
+CAL at ORE
+GRA at CAN
+CHE at FAI
+GLE at MAT
+KEN at HB
+STJ at LEI
+TRU at LOC
+LYD at PRS
+NI at PSH
+PAY at RET
+RTH at WES
+STO at WOL
+
+Day 25
+===========
+LYD at ASH
+SC at BAY
+BEL at WES
+BRO at RTH
+CAL at CHE
+HB at CAN
+DEF at GRA
+FAI at PSH
+GLE at LEI
+STO at KEN
+RET at LOC
+MAT at STJ
+NI at PRS
+WOL at ORE
+PAY at TRU
+
+Day 26
+===========
+ASH at STO
+BAY at KEN
+BEL at PAY
+GRA at BRO
+CAL at HB
+WOL at CAN
+ORE at CHE
+DEF at RTH
+RET at FAI
+LEI at GLE
+PSH at LOC
+TRU at LYD
+WES at MAT
+STJ at NI
+PRS at SC
+
+Day 27
+===========
+ASH at GRA
+RET at BAY
+STO at BEL
+KEN at BRO
+ORE at CAL
+CAN at WOL
+CHE at FAI
+DEF at PRS
+WES at GLE
+RTH at HB
+LYD at LEI
+PSH at LOC
+NI at MAT
+STJ at PAY
+TRU at SC
+
+Day 28
+===========
+ASH at PSH
+BAY at RTH
+BEL at CAL
+BRO at LYD
+STO at CAN
+FAI at CHE
+DEF at KEN
+WES at GLE
+GRA at TRU
+HB at LOC
+SC at LEI
+MAT at PAY
+NI at ORE
+PRS at WOL
+STJ at RET
+
+Day 29
+===========
+ASH at KEN
+HB at BAY
+PRS at BEL
+BRO at DEF
+CAL at RET
+CAN at WOL
+TRU at CHE
+PSH at FAI
+PAY at GLE
+GRA at STJ
+LEI at LYD
+MAT at LOC
+NI at WES
+SC at ORE
+RTH at STO
+
+Day 30
+===========
+KEN at ASH
+MAT at BAY
+BEL at DEF
+BRO at WES
+LYD at CAL
+CAN at PSH
+PAY at CHE
+FAI at ORE
+GLE at TRU
+GRA at LEI
+WOL at HB
+LOC at STJ
+NI at PRS
+SC at RET
+STO at RTH
+
+Day 31
+===========
+ASH at BEL
+BAY at PRS
+PAY at BRO
+CAL at ORE
+CAN at TRU
+CHE at GLE
+RTH at DEF
+FAI at PSH
+GRA at WOL
+NI at HB
+STJ at KEN
+LEI at RET
+LYD at LOC
+MAT at SC
+STO at WES
+
+Day 32
+===========
+GRA at ASH
+WOL at BAY
+GLE at BEL
+BRO at STJ
+CAL at HB
+CAN at PAY
+CHE at DEF
+PSH at FAI
+KEN at RTH
+NI at LEI
+ORE at LOC
+LYD at STO
+MAT at PRS
+RET at WES
+TRU at SC
+
+Day 33
+===========
+ASH at LEI
+CAL at BAY
+FAI at BEL
+SC at BRO
+CAN at GRA
+CHE at WES
+RET at DEF
+PRS at GLE
+HB at PAY
+STJ at KEN
+RTH at LOC
+LYD at ORE
+MAT at NI
+WOL at PSH
+TRU at STO
+
+Day 34
+===========
+ORE at ASH
+CHE at BAY
+LOC at BEL
+BRO at SC
+CAL at TRU
+RET at CAN
+RTH at DEF
+LYD at FAI
+GRA at GLE
+HB at WES
+STO at KEN
+LEI at MAT
+NI at WOL
+PSH at PRS
+PAY at STJ
+
+Day 35
+===========
+ORE at ASH
+BAY at PSH
+BEL at PAY
+TRU at BRO
+CAL at DEF
+STO at CAN
+CHE at SC
+WES at FAI
+WOL at GLE
+STJ at GRA
+LOC at HB
+KEN at NI
+LEI at RET
+LYD at MAT
+PRS at RTH
+
+Day 36
+===========
+WOL at ASH
+PAY at BAY
+BEL at GLE
+LYD at BRO
+CAL at RET
+CAN at LOC
+CHE at NI
+DEF at RTH
+FAI at PRS
+STO at GRA
+HB at ORE
+MAT at KEN
+TRU at LEI
+STJ at PSH
+SC at WES
+
+Day 37
+===========
+LEI at ASH
+PAY at BAY
+BEL at BRO
+NI at CAL
+DEF at CAN
+CHE at MAT
+STO at FAI
+GLE at KEN
+GRA at PRS
+HB at SC
+LOC at ORE
+RTH at LYD
+PSH at RET
+WOL at STJ
+TRU at WES
+
+Day 38
+===========
+ASH at CAL
+BAY at LOC
+BEL at CHE
+BRO at PSH
+FAI at CAN
+DEF at NI
+GLE at MAT
+GRA at RET
+HB at KEN
+STJ at LEI
+LYD at STO
+ORE at WOL
+WES at PRS
+PAY at TRU
+SC at RTH
+
+Day 39
+===========
+WOL at ASH
+BAY at STJ
+BEL at MAT
+BRO at NI
+CAL at DEF
+RTH at CAN
+SC at CHE
+FAI at HB
+KEN at GLE
+GRA at PSH
+LEI at LYD
+LOC at PRS
+ORE at RET
+WES at PAY
+TRU at STO
+
+Day 40
+===========
+ASH at CAL
+BAY at GRA
+BEL at SC
+DEF at BRO
+CAN at WES
+RET at CHE
+STO at FAI
+GLE at RTH
+TRU at HB
+KEN at PRS
+LEI at NI
+STJ at LOC
+MAT at LYD
+ORE at PAY
+PSH at WOL
+
+Day 41
+===========
+ASH at HB
+BEL at BAY
+NI at BRO
+PAY at CAL
+ORE at CAN
+CHE at RTH
+DEF at GLE
+FAI at LYD
+GRA at WES
+KEN at MAT
+STO at LEI
+RET at LOC
+PSH at STJ
+PRS at WOL
+SC at TRU
+
+Day 42
+===========
+ASH at PRS
+BAY at PAY
+BEL at RET
+BRO at LYD
+WES at CAL
+TRU at CAN
+CHE at PSH
+DEF at GRA
+STO at FAI
+GLE at LOC
+HB at LEI
+MAT at KEN
+ORE at NI
+WOL at RTH
+SC at STJ
+
+Day 43
+===========
+TRU at ASH
+BAY at RTH
+BEL at SC
+STO at BRO
+MAT at CAL
+CAN at FAI
+PRS at CHE
+NI at DEF
+GRA at GLE
+HB at PSH
+LEI at KEN
+WOL at LOC
+STJ at LYD
+WES at ORE
+PAY at RET
+
+Day 44
+===========
+ASH at WES
+BEL at BAY
+CAL at BRO
+CAN at LEI
+NI at CHE
+STO at DEF
+FAI at STJ
+GLE at TRU
+GRA at LYD
+HB at SC
+KEN at PSH
+LOC at RET
+PAY at MAT
+WOL at ORE
+RTH at PRS
+
+Day 45
+===========
+CAN at ASH
+BRO at BAY
+BEL at LOC
+CAL at KEN
+LEI at CHE
+DEF at WES
+FAI at RTH
+GLE at PAY
+NI at GRA
+STO at HB
+LYD at TRU
+ORE at MAT
+PSH at RET
+STJ at PRS
+SC at WOL
+
+Day 46
+===========
+ASH at SC
+BAY at GLE
+BEL at GRA
+BRO at PAY
+LOC at CAL
+RET at CAN
+PSH at CHE
+LEI at DEF
+FAI at LYD
+HB at WES
+MAT at KEN
+NI at WOL
+RTH at ORE
+STJ at PRS
+STO at REST
+TRU at REST
+
+Day 47
+===========
+CAL at ASH
+BAY at PSH
+BEL at NI
+BRO at RTH
+TRU at CAN
+GLE at CHE
+FAI at DEF
+GRA at ORE
+HB at PAY
+KEN at SC
+WOL at LEI
+LOC at RET
+MAT at LYD
+STO at PRS
+WES at STJ
+
+Day 48
+===========
+CAN at ASH
+PAY at BAY
+BEL at WES
+LOC at BRO
+PRS at CAL
+CHE at TRU
+PSH at DEF
+MAT at FAI
+GLE at NI
+GRA at RTH
+ORE at HB
+RET at KEN
+WOL at LEI
+STO at LYD
+STJ at SC
+
+Day 49
+===========
+ASH at SC
+LOC at BAY
+BEL at NI
+BRO at FAI
+HB at CAL
+CAN at WES
+CHE at RTH
+MAT at DEF
+KEN at GLE
+LEI at GRA
+LYD at WOL
+ORE at TRU
+PSH at PAY
+STO at PRS
+STJ at RET
+
+Day 50
+===========
+ASH at HB
+PAY at BAY
+BEL at LEI
+BRO at FAI
+GLE at CAL
+CAN at TRU
+DEF at CHE
+KEN at GRA
+LOC at WOL
+NI at LYD
+MAT at STO
+PSH at ORE
+RTH at PRS
+WES at RET
+SC at STJ
+
+Day 51
+===========
+CAL at ASH
+BAY at LOC
+RET at BEL
+BRO at MAT
+ORE at CAN
+CHE at GLE
+LEI at DEF
+FAI at NI
+GRA at PRS
+HB at RTH
+KEN at LYD
+PAY at PSH
+SC at WES
+STJ at TRU
+STO at REST
+WOL at REST
+
+Day 52
+===========
+STJ at ASH
+BAY at TRU
+BEL at WES
+BRO at CAL
+ORE at CAN
+CHE at STO
+DEF at HB
+LEI at FAI
+PSH at GLE
+GRA at PAY
+KEN at RTH
+LOC at NI
+LYD at SC
+RET at MAT
+PRS at REST
+WOL at REST
+
+Day 53
+===========
+GLE at ASH
+BAY at PRS
+BEL at SC
+RTH at BRO
+STJ at CAL
+PAY at CAN
+WOL at CHE
+FAI at DEF
+GRA at LYD
+HB at TRU
+STO at KEN
+ORE at LEI
+LOC at RET
+MAT at PSH
+NI at REST
+WES at REST
+
+Day 54
+===========
+HB at ASH
+PAY at BAY
+BEL at STJ
+BRO at GRA
+LOC at CAL
+CAN at TRU
+CHE at WOL
+DEF at LYD
+MAT at FAI
+GLE at PRS
+KEN at RET
+LEI at PSH
+RTH at NI
+ORE at SC
+STO at WES
+
+Day 55
+===========
+FAI at ASH
+BAY at SC
+PAY at BEL
+LOC at BRO
+KEN at CAL
+CAN at STJ
+MAT at CHE
+GRA at DEF
+GLE at LEI
+WOL at HB
+LYD at STO
+NI at PRS
+WES at ORE
+RTH at PSH
+RET at TRU
+
+Day 56
+===========
+ASH at WOL
+TRU at BAY
+HB at BEL
+BRO at PRS
+CHE at CAL
+WES at CAN
+LYD at DEF
+PAY at FAI
+GLE at MAT
+GRA at PSH
+KEN at LOC
+NI at LEI
+ORE at SC
+RTH at RET
+STJ at STO
+
+Day 57
+===========
+ASH at TRU
+BAY at HB
+WES at BEL
+BRO at GLE
+SC at CAL
+ORE at CAN
+FAI at CHE
+DEF at NI
+GRA at LYD
+KEN at PSH
+LEI at STO
+WOL at LOC
+RET at MAT
+PAY at PRS
+STJ at RTH
+
+Day 58
+===========
+ASH at STO
+BAY at SC
+BEL at LEI
+BRO at CAN
+LOC at CAL
+CHE at RTH
+DEF at WES
+FAI at NI
+MAT at GLE
+KEN at GRA
+HB at PAY
+LYD at PRS
+ORE at TRU
+PSH at REST
+RET at STJ
+WOL at REST
+
+Day 59
+===========
+TRU at ASH
+BAY at WOL
+BEL at LOC
+GLE at BRO
+WES at CAL
+PAY at CAN
+NI at CHE
+KEN at DEF
+MAT at FAI
+GRA at PRS
+STO at HB
+PSH at LEI
+RTH at LYD
+ORE at RET
+SC at STJ
+
+Day 60
+===========
+BEL at ASH
+LOC at BAY
+BRO at TRU
+SC at CAL
+STJ at CAN
+CHE at FAI
+DEF at STO
+NI at GLE
+PRS at GRA
+PSH at HB
+KEN at WOL
+LYD at LEI
+MAT at ORE
+RET at PAY
+RTH at WES
+
+Day 61
+===========
+STJ at ASH
+BAY at STO
+BEL at RTH
+GLE at BRO
+GRA at CAL
+CAN at WOL
+CHE at NI
+LEI at DEF
+MAT at FAI
+PAY at HB
+KEN at SC
+LOC at ORE
+LYD at PRS
+WES at PSH
+RET at TRU
+
+Day 62
+===========
+ASH at BEL
+STJ at BAY
+BRO at RTH
+PRS at CAL
+SC at CAN
+LOC at CHE
+PSH at DEF
+NI at FAI
+KEN at GLE
+GRA at MAT
+PAY at HB
+LEI at WES
+STO at LYD
+ORE at RET
+WOL at TRU
+
+Day 63
+===========
+CAN at ASH
+BEL at BAY
+BRO at CHE
+ORE at CAL
+MAT at DEF
+FAI at GLE
+GRA at STO
+WOL at HB
+KEN at LYD
+LOC at LEI
+NI at SC
+PSH at WES
+PRS at PAY
+TRU at RET
+RTH at STJ
+
+Day 64
+===========
+ASH at BAY
+BEL at CAN
+WOL at BRO
+NI at CAL
+CHE at RET
+GRA at DEF
+FAI at PSH
+ORE at GLE
+HB at STJ
+KEN at TRU
+WES at LEI
+PAY at LOC
+LYD at MAT
+PRS at STO
+RTH at REST
+SC at REST
+
+Day 65
+===========
+BEL at ASH
+SC at BAY
+BRO at LYD
+CAL at WES
+LOC at CAN
+RTH at CHE
+PRS at DEF
+STJ at FAI
+KEN at GLE
+GRA at PSH
+RET at HB
+NI at LEI
+STO at MAT
+WOL at ORE
+PAY at TRU
+
+Day 66
+===========
+BAY at ASH
+FAI at BEL
+RTH at BRO
+HB at CAL
+TRU at CAN
+STO at CHE
+DEF at LEI
+GLE at SC
+PSH at GRA
+LYD at KEN
+STJ at LOC
+NI at MAT
+ORE at WOL
+PRS at RET
+WES at PAY
+
+Day 67
+===========
+CAN at ASH
+LOC at BAY
+BEL at MAT
+BRO at PRS
+CAL at HB
+DEF at CHE
+LYD at FAI
+STO at GLE
+KEN at GRA
+LEI at RTH
+PSH at NI
+WOL at ORE
+STJ at PAY
+RET at SC
+TRU at WES
+
+Day 68
+===========
+WOL at ASH
+HB at BAY
+GRA at BEL
+KEN at BRO
+CAL at STJ
+CAN at PAY
+GLE at CHE
+DEF at LYD
+PSH at FAI
+LEI at STO
+TRU at LOC
+NI at MAT
+ORE at WES
+PRS at RTH
+RET at SC
+
+Day 69
+===========
+STJ at ASH
+BAY at BEL
+NI at BRO
+CAL at SC
+ORE at CAN
+CHE at KEN
+RTH at DEF
+LYD at FAI
+STO at GLE
+GRA at LOC
+HB at PAY
+PSH at LEI
+TRU at MAT
+PRS at REST
+RET at WOL
+WES at REST
+
+Day 70
+===========
+LOC at ASH
+SC at BAY
+BEL at STJ
+BRO at ORE
+PAY at CAL
+CAN at WOL
+PSH at CHE
+DEF at PRS
+NI at FAI
+GLE at STO
+RTH at GRA
+HB at LEI
+KEN at TRU
+LYD at MAT
+WES at RET
+
+Day 71
+===========
+ASH at BEL
+BAY at WOL
+MAT at BRO
+STJ at CAL
+WES at CAN
+STO at CHE
+RET at DEF
+GRA at FAI
+LEI at GLE
+PAY at HB
+PSH at KEN
+ORE at LOC
+LYD at PRS
+NI at RTH
+SC at TRU
+
+Day 72
+===========
+ASH at TRU
+BAY at SC
+BEL at ORE
+RTH at BRO
+HB at CAL
+WOL at CAN
+STO at CHE
+DEF at PRS
+FAI at LEI
+MAT at GLE
+GRA at KEN
+PAY at LOC
+RET at LYD
+NI at PSH
+WES at STJ
+
+Day 73
+===========
+ASH at BAY
+BEL at CAL
+BRO at PRS
+CAN at KEN
+CHE at LEI
+RTH at DEF
+NI at FAI
+STO at GLE
+LYD at GRA
+HB at PAY
+TRU at LOC
+MAT at PSH
+RET at ORE
+SC at WOL
+WES at STJ
+
+Day 74
+===========
+TRU at ASH
+BAY at SC
+BEL at HB
+BRO at LEI
+GLE at CAL
+CAN at RET
+CHE at PSH
+DEF at GRA
+FAI at RTH
+MAT at KEN
+LOC at WES
+LYD at PRS
+STO at NI
+ORE at PAY
+STJ at WOL
+
+Day 75
+===========
+BEL at ASH
+BAY at STJ
+BRO at MAT
+ORE at CAL
+CAN at PAY
+CHE at PSH
+DEF at FAI
+LEI at GLE
+GRA at NI
+HB at RET
+LOC at KEN
+LYD at STO
+PRS at RTH
+WOL at SC
+TRU at WES
+
+Day 76
+===========
+ASH at SC
+LOC at BAY
+BEL at RET
+BRO at GRA
+PAY at CAL
+CAN at WES
+CHE at PSH
+LEI at DEF
+FAI at KEN
+GLE at MAT
+NI at HB
+LYD at STO
+ORE at WOL
+RTH at PRS
+TRU at STJ
+
+Day 77
+===========
+ASH at BEL
+BAY at CAN
+BRO at STO
+WOL at CAL
+FAI at CHE
+DEF at PRS
+GLE at NI
+GRA at RTH
+HB at STJ
+KEN at MAT
+PSH at LEI
+ORE at LOC
+LYD at PAY
+SC at RET
+WES at TRU
+
+Day 78
+===========
+ASH at TRU
+BAY at CAL
+BEL at SC
+LYD at BRO
+LOC at CAN
+STJ at CHE
+DEF at FAI
+LEI at GLE
+GRA at NI
+HB at ORE
+KEN at RTH
+PRS at MAT
+PSH at STO
+WES at PAY
+RET at WOL
+
+Day 79
+===========
+TRU at ASH
+KEN at BAY
+BEL at PAY
+WOL at BRO
+LOC at CAL
+WES at CAN
+LYD at CHE
+FAI at DEF
+HB at GLE
+GRA at PRS
+LEI at MAT
+NI at PSH
+SC at ORE
+STJ at RET
+RTH at STO
+
+Day 80
+===========
+PAY at ASH
+BAY at GRA
+BEL at CAL
+DEF at BRO
+WES at CAN
+FAI at CHE
+SC at GLE
+ORE at HB
+KEN at NI
+RTH at LEI
+WOL at LOC
+LYD at PSH
+MAT at STO
+PRS at REST
+RET at STJ
+TRU at REST
+
+Day 81
+===========
+ASH at BRO
+BAY at HB
+BEL at WES
+WOL at CAL
+ORE at CAN
+KEN at CHE
+GRA at DEF
+NI at FAI
+GLE at PRS
+LEI at STO
+PAY at LOC
+RTH at LYD
+MAT at PSH
+TRU at RET
+SC at STJ
+
+Day 82
+===========
+PAY at ASH
+BAY at WES
+ORE at BEL
+LEI at BRO
+STJ at CAL
+CAN at SC
+RTH at CHE
+PSH at DEF
+GLE at FAI
+NI at GRA
+HB at LOC
+KEN at LYD
+MAT at PRS
+WOL at RET
+STO at REST
+TRU at REST
+
+Day 83
+===========
+RET at ASH
+BAY at CAN
+BEL at ORE
+BRO at CHE
+LOC at CAL
+SC at DEF
+WOL at FAI
+GLE at LYD
+LEI at GRA
+HB at PRS
+KEN at PSH
+MAT at NI
+TRU at PAY
+STO at RTH
+WES at STJ
+
+Day 84
+===========
+TRU at ASH
+BAY at RET
+BEL at CAN
+BRO at LEI
+CAL at LOC
+CHE at MAT
+DEF at NI
+FAI at KEN
+RTH at GLE
+GRA at STO
+WES at HB
+PRS at LYD
+ORE at PSH
+PAY at SC
+WOL at STJ
+
+Day 85
+===========
+ASH at HB
+LYD at BAY
+SC at BEL
+DEF at BRO
+WES at CAL
+ORE at CAN
+PSH at CHE
+FAI at PRS
+STO at GLE
+MAT at GRA
+RTH at KEN
+LOC at LEI
+NI at REST
+PAY at TRU
+RET at WOL
+STJ at REST
+
+Day 86
+===========
+ASH at BAY
+SC at BEL
+FAI at BRO
+CAL at HB
+RET at CAN
+CHE at PSH
+STO at DEF
+LYD at GLE
+GRA at MAT
+LEI at KEN
+PAY at LOC
+RTH at NI
+STJ at ORE
+PRS at REST
+TRU at WES
+WOL at REST
+
+Day 87
+===========
+ASH at SC
+BAY at TRU
+BEL at WOL
+BRO at NI
+CAL at STO
+CAN at RTH
+LYD at CHE
+DEF at KEN
+PSH at FAI
+GLE at LEI
+MAT at GRA
+HB at ORE
+PRS at LOC
+RET at PAY
+WES at STJ
+
+Day 88
+===========
+ASH at BAY
+BEL at CAN
+BRO at RTH
+STJ at CAL
+LEI at CHE
+DEF at LYD
+FAI at LOC
+PRS at GLE
+STO at GRA
+WES at HB
+KEN at WOL
+PSH at MAT
+NI at REST
+RET at ORE
+PAY at SC
+TRU at REST
+
+Day 89
+===========
+ORE at ASH
+BAY at RET
+LOC at BEL
+BRO at LYD
+WES at CAL
+CAN at MAT
+GRA at CHE
+DEF at PAY
+FAI at KEN
+PSH at GLE
+STJ at HB
+STO at LEI
+NI at PRS
+TRU at RTH
+SC at WOL
+
+Day 90
+===========
+ASH at LOC
+BEL at BAY
+ORE at BRO
+RET at CAL
+CAN at SC
+NI at CHE
+DEF at LYD
+FAI at GRA
+GLE at PRS
+HB at WOL
+RTH at KEN
+LEI at STO
+MAT at PSH
+PAY at TRU
+WES at STJ
+
+Day 91
+===========
+ASH at CAL
+RET at BAY
+BEL at TRU
+MAT at BRO
+CAN at SC
+CHE at KEN
+PAY at DEF
+LOC at FAI
+LEI at GLE
+GRA at STO
+HB at STJ
+LYD at NI
+ORE at WOL
+PSH at PRS
+RTH at REST
+WES at REST
+
+Day 92
+===========
+ASH at WOL
+BAY at ORE
+TRU at BEL
+STO at BRO
+CAL at HB
+CAN at RET
+PRS at CHE
+DEF at FAI
+GLE at NI
+GRA at KEN
+LEI at PSH
+LOC at SC
+MAT at LYD
+PAY at WES
+RTH at REST
+STJ at REST
+
+Day 93
+===========
+ASH at HB
+BAY at LOC
+BEL at ORE
+GRA at BRO
+CAN at CAL
+LEI at CHE
+STO at DEF
+GLE at FAI
+LYD at KEN
+RTH at MAT
+NI at PRS
+PSH at REST
+TRU at PAY
+RET at WOL
+STJ at SC
+WES at REST
+
+Day 94
+===========
+STJ at ASH
+WES at BAY
+BEL at CAL
+LYD at BRO
+ORE at CAN
+CHE at PRS
+WOL at DEF
+HB at FAI
+GRA at GLE
+KEN at STO
+PSH at LEI
+TRU at LOC
+NI at MAT
+RET at PAY
+RTH at REST
+SC at REST
+
+Day 95
+===========
+PAY at ASH
+BAY at ORE
+BEL at TRU
+MAT at BRO
+CAL at STJ
+WOL at CAN
+CHE at KEN
+DEF at NI
+FAI at LEI
+GLE at LYD
+GRA at PSH
+LOC at HB
+PRS at RTH
+RET at WES
+SC at STO
+
+Day 96
+===========
+ASH at STJ
+BAY at LYD
+WOL at BEL
+BRO at KEN
+TRU at CAL
+CAN at PAY
+GLE at CHE
+DEF at RTH
+GRA at FAI
+PRS at HB
+NI at LEI
+LOC at STO
+PSH at MAT
+ORE at WES
+SC at RET
+
+Day 97
+===========
+ORE at ASH
+TRU at BAY
+BEL at PAY
+CHE at BRO
+HB at CAL
+CAN at STJ
+PSH at DEF
+LEI at FAI
+KEN at GLE
+RTH at GRA
+LOC at WES
+PRS at LYD
+STO at MAT
+NI at REST
+RET at SC
+WOL at REST
+
+Day 98
+===========
+ASH at PAY
+WES at BAY
+CAN at BEL
+DEF at BRO
+CAL at RET
+MAT at CHE
+LEI at FAI
+GLE at STO
+RTH at GRA
+HB at WOL
+PRS at KEN
+ORE at LOC
+LYD at PSH
+NI at REST
+SC at STJ
+TRU at REST
+
+Day 99
+===========
+STJ at ASH
+RET at BAY
+HB at BEL
+PSH at BRO
+TRU at CAL
+LOC at CAN
+LEI at CHE
+DEF at PRS
+MAT at FAI
+LYD at GLE
+NI at GRA
+KEN at STO
+WES at ORE
+PAY at SC
+RTH at REST
+WOL at REST
+
+Day 100
+===========
+LOC at ASH
+BAY at TRU
+PAY at BEL
+LEI at BRO
+CAL at STJ
+CAN at HB
+NI at CHE
+DEF at PRS
+PSH at FAI
+GRA at GLE
+MAT at KEN
+LYD at STO
+RET at ORE
+RTH at REST
+SC at WOL
+WES at REST
+
+Day 101
+===========
+ASH at LOC
+STJ at BAY
+BEL at CAN
+STO at BRO
+WES at CAL
+CHE at KEN
+DEF at GRA
+PRS at FAI
+PSH at GLE
+HB at RET
+LEI at RTH
+LYD at NI
+MAT at REST
+PAY at ORE
+SC at TRU
+WOL at REST
+
+Day 102
+===========
+ASH at STJ
+CAL at BAY
+LOC at BEL
+PSH at BRO
+CAN at RET
+CHE at DEF
+KEN at FAI
+STO at GLE
+RTH at GRA
+SC at HB
+PRS at LEI
+NI at LYD
+MAT at REST
+ORE at WOL
+WES at PAY
+TRU at REST
+
+Day 103
+===========
+ASH at CAL
+ORE at BAY
+HB at BEL
+DEF at BRO
+LOC at CAN
+KEN at CHE
+PRS at FAI
+PSH at GLE
+GRA at LEI
+LYD at RTH
+MAT at STO
+NI at REST
+STJ at PAY
+SC at RET
+WOL at TRU
+WES at REST
+
+Day 104
+===========
+RET at ASH
+PAY at BAY
+BEL at CAN
+PRS at BRO
+CAL at LOC
+CHE at GRA
+STO at DEF
+FAI at WOL
+GLE at KEN
+ORE at HB
+LYD at LEI
+MAT at NI
+PSH at RTH
+TRU at SC
+STJ at WES
+
+Day 105
+===========
+ASH at ORE
+BAY at CAN
+BEL at RET
+BRO at FAI
+CAL at PAY
+CHE at PRS
+GRA at DEF
+LYD at GLE
+LOC at HB
+STO at KEN
+NI at LEI
+MAT at RTH
+PSH at REST
+WOL at SC
+TRU at STJ
+WES at REST
+
+Day 106
+===========
+SC at ASH
+BAY at WOL
+BEL at RET
+BRO at NI
+CAL at PAY
+CAN at TRU
+LYD at CHE
+DEF at GLE
+RTH at FAI
+GRA at STO
+ORE at HB
+LEI at KEN
+WES at LOC
+PRS at MAT
+PSH at REST
+STJ at REST
+
+Day 107
+===========
+ASH at CAL
+BAY at STJ
+BEL at ORE
+HB at BRO
+TRU at CAN
+CHE at LEI
+PSH at DEF
+FAI at GRA
+GLE at PRS
+LYD at KEN
+LOC at SC
+RTH at MAT
+NI at STO
+PAY at RET
+WOL at WES
+
+Day 108
+===========
+ASH at WOL
+LOC at BAY
+ORE at BEL
+BRO at HB
+SC at CAL
+STJ at CAN
+DEF at CHE
+KEN at FAI
+GLE at RTH
+MAT at GRA
+PRS at LEI
+NI at LYD
+PSH at STO
+RET at PAY
+TRU at WES
+
+Day 109
+===========
+ASH at RET
+BEL at BAY
+PSH at BRO
+CAL at ORE
+CAN at PAY
+PRS at CHE
+SC at DEF
+FAI at LEI
+GLE at GRA
+HB at TRU
+MAT at KEN
+STO at LOC
+RTH at LYD
+NI at REST
+STJ at WOL
+WES at REST
+
+Day 110
+===========
+LOC at ASH
+RET at BAY
+TRU at BEL
+BRO at GRA
+ORE at CAL
+HB at CAN
+CHE at LYD
+MAT at DEF
+PRS at FAI
+NI at GLE
+PSH at KEN
+LEI at RTH
+PAY at WES
+SC at STO
+WOL at STJ
+
+Day 111
+===========
+CAN at ASH
+BAY at STJ
+BEL at HB
+KEN at BRO
+CAL at WES
+CHE at LEI
+PSH at DEF
+FAI at MAT
+PRS at GLE
+RTH at GRA
+LOC at SC
+LYD at NI
+ORE at PAY
+TRU at RET
+STO at REST
+WOL at REST
+
+Day 112
+===========
+ASH at CAN
+STO at BAY
+BEL at RET
+BRO at DEF
+CAL at ORE
+CHE at NI
+RTH at FAI
+GLE at LYD
+GRA at MAT
+HB at SC
+PRS at KEN
+LEI at REST
+TRU at LOC
+PSH at REST
+STJ at PAY
+WOL at WES
+
+Day 113
+===========
+ASH at PAY
+CAL at BAY
+BEL at WES
+LEI at BRO
+CAN at LOC
+GLE at CHE
+PSH at DEF
+FAI at PRS
+STO at GRA
+HB at RET
+MAT at KEN
+RTH at LYD
+NI at REST
+TRU at ORE
+SC at STJ
+WOL at REST
+
+Day 114
+===========
+BAY at ASH
+BEL at PAY
+KEN at BRO
+CAN at CAL
+CHE at MAT
+FAI at DEF
+PSH at GLE
+GRA at LEI
+TRU at HB
+LOC at WOL
+LYD at NI
+ORE at STJ
+PRS at STO
+SC at RET
+RTH at REST
+WES at REST
+
+Day 115
+===========
+CAN at ASH
+BEL at BAY
+BRO at KEN
+CAL at STO
+CHE at GRA
+DEF at NI
+GLE at FAI
+STJ at HB
+MAT at LEI
+SC at LOC
+PSH at LYD
+ORE at TRU
+RTH at PRS
+RET at PAY
+WES at WOL
+
+Day 116
+===========
+ASH at WES
+BAY at RET
+CAN at BEL
+BRO at MAT
+CAL at TRU
+CHE at LYD
+DEF at FAI
+NI at GLE
+LEI at GRA
+HB at LOC
+KEN at STO
+ORE at STJ
+PSH at RTH
+PRS at REST
+PAY at SC
+WOL at REST
+
+Day 117
+===========
+ASH at ORE
+BAY at CAL
+BEL at CAN
+BRO at KEN
+STO at CHE
+PSH at DEF
+RTH at FAI
+STJ at GLE
+GRA at LYD
+WOL at HB
+MAT at LEI
+LOC at PAY
+NI at PRS
+RET at WES
+SC at REST
+TRU at REST
+
+Day 118
+===========
+SC at ASH
+PAY at BAY
+BEL at STJ
+BRO at NI
+CAL at CAN
+LEI at CHE
+DEF at GLE
+FAI at MAT
+PSH at GRA
+HB at WES
+LYD at KEN
+LOC at WOL
+RET at ORE
+PRS at RTH
+STO at REST
+TRU at REST
+
+Day 119
+===========
+PAY at ASH
+HB at BAY
+BEL at STJ
+MAT at BRO
+TRU at CAL
+CAN at RET
+LYD at CHE
+GRA at DEF
+FAI at PRS
+KEN at GLE
+ORE at LEI
+SC at LOC
+NI at RTH
+STO at PSH
+WOL at WES
+
+Day 120
+===========
+ASH at ORE
+BEL at BAY
+LEI at BRO
+CAN at CAL
+CHE at STJ
+LYD at DEF
+FAI at KEN
+NI at GLE
+RTH at GRA
+HB at WES
+WOL at LOC
+MAT at STO
+PRS at PSH
+PAY at RET
+SC at REST
+TRU at REST
+
+Day 121
+===========
+WES at ASH
+BEL at BAY
+PRS at BRO
+SC at CAL
+STJ at CAN
+CHE at GLE
+DEF at LEI
+GRA at FAI
+TRU at HB
+RTH at KEN
+LOC at ORE
+MAT at LYD
+STO at NI
+PSH at REST
+PAY at WOL
+RET at REST
+
+Day 122
+===========
+RET at ASH
+HB at BAY
+BEL at PSH
+BRO at MAT
+WOL at CAL
+CAN at STJ
+LEI at CHE
+LYD at DEF
+KEN at FAI
+GLE at RTH
+GRA at NI
+LOC at SC
+PAY at ORE
+PRS at STO
+TRU at WES
+
+Day 123
+===========
+ASH at BAY
+BEL at LOC
+BRO at CHE
+CAL at CAN
+MAT at DEF
+RTH at FAI
+GLE at PSH
+GRA at NI
+HB at RET
+LEI at KEN
+LYD at PRS
+TRU at ORE
+PAY at STO
+SC at STJ
+WES at WOL
+
+Day 124
+===========
+ASH at BAY
+CAL at BEL
+BRO at LYD
+PAY at CAN
+CHE at GRA
+GLE at DEF
+FAI at RTH
+HB at STJ
+LEI at KEN
+LOC at ORE
+MAT at STO
+NI at PRS
+PSH at REST
+RET at TRU
+SC at WES
+WOL at REST
+
+Day 125
+===========
+ASH at RET
+CAL at BAY
+STJ at BEL
+STO at BRO
+SC at CAN
+CHE at MAT
+DEF at KEN
+GRA at FAI
+GLE at RTH
+HB at WES
+PRS at LEI
+LOC at PAY
+PSH at LYD
+NI at REST
+TRU at ORE
+WOL at REST
+
+Day 126
+===========
+ASH at LOC
+WES at BAY
+RET at BEL
+MAT at BRO
+CAL at PAY
+HB at CAN
+KEN at CHE
+DEF at LEI
+GLE at FAI
+NI at GRA
+LYD at PSH
+TRU at ORE
+PRS at STO
+RTH at REST
+SC at STJ
+WOL at REST
+
+Day 127
+===========
+ORE at ASH
+BAY at PAY
+WES at BEL
+CHE at BRO
+RET at CAL
+CAN at SC
+MAT at DEF
+NI at FAI
+STJ at GLE
+GRA at PSH
+TRU at HB
+KEN at LEI
+LOC at REST
+RTH at LYD
+STO at PRS
+WOL at REST
+
+Day 128
+===========
+BEL at ASH
+CAL at BAY
+BRO at FAI
+STJ at CAN
+STO at CHE
+DEF at LYD
+GLE at PRS
+LEI at GRA
+HB at LOC
+NI at KEN
+MAT at PSH
+WES at ORE
+PAY at TRU
+WOL at RET
+RTH at REST
+SC at REST
+
+Day 129
+===========
+LOC at ASH
+CAN at BAY
+BEL at ORE
+PSH at BRO
+CAL at STJ
+CHE at PRS
+MAT at DEF
+RTH at FAI
+GRA at GLE
+HB at SC
+KEN at STO
+LEI at NI
+LYD at REST
+PAY at WOL
+TRU at RET
+WES at REST
+
+Day 130
+===========
+ASH at WOL
+BAY at ORE
+STJ at BEL
+BRO at PRS
+CAN at CAL
+LYD at CHE
+DEF at KEN
+FAI at MAT
+RTH at GLE
+LEI at GRA
+SC at HB
+LOC at PAY
+NI at PSH
+WES at RET
+STO at REST
+TRU at REST
+
+Day 131
+===========
+CAN at ASH
+HB at BAY
+BEL at CAL
+LEI at BRO
+CHE at DEF
+FAI at LYD
+RTH at GLE
+KEN at GRA
+LOC at TRU
+MAT at PRS
+NI at STO
+ORE at WES
+PSH at REST
+PAY at WOL
+RET at STJ
+SC at REST
+
+Day 132
+===========
+BEL at ASH
+BAY at ORE
+BRO at GRA
+CAL at SC
+CAN at HB
+CHE at DEF
+PRS at FAI
+LYD at GLE
+KEN at PSH
+STO at LEI
+TRU at LOC
+MAT at RTH
+NI at REST
+WES at PAY
+WOL at RET
+STJ at REST
+
+Day 133
+===========
+ASH at WOL
+BAY at RET
+BEL at TRU
+BRO at STO
+SC at CAL
+CAN at STJ
+CHE at GRA
+PRS at DEF
+FAI at LYD
+GLE at REST
+HB at ORE
+NI at KEN
+MAT at LEI
+LOC at WES
+RTH at PSH
+PAY at REST
+
+Day 134
+===========
+ASH at PAY
+RET at BAY
+BEL at STJ
+GRA at BRO
+WOL at CAL
+CAN at LOC
+CHE at GLE
+LEI at DEF
+FAI at NI
+SC at HB
+KEN at PRS
+MAT at LYD
+WES at ORE
+PSH at STO
+RTH at TRU
+
+Day 135
+===========
+SC at ASH
+BAY at RET
+TRU at BEL
+LYD at BRO
+WOL at CAL
+CAN at STJ
+DEF at CHE
+FAI at MAT
+GRA at GLE
+HB at REST
+KEN at NI
+PRS at LEI
+WES at LOC
+PAY at ORE
+RTH at PSH
+STO at REST
+
+Day 136
+===========
+ASH at GLE
+CAN at BAY
+BEL at RET
+FAI at BRO
+CAL at TRU
+GRA at CHE
+DEF at LEI
+HB at SC
+PRS at KEN
+LOC at STJ
+LYD at MAT
+NI at PSH
+ORE at PAY
+RTH at STO
+WES at WOL
+
+Day 137
+===========
+WES at ASH
+BAY at ORE
+TRU at BEL
+PSH at BRO
+CAL at RET
+HB at CAN
+GLE at CHE
+LEI at DEF
+FAI at LYD
+GRA at MAT
+NI at KEN
+STJ at LOC
+PRS at STO
+SC at PAY
+RTH at REST
+WOL at REST
+
+Day 138
+===========
+WES at ASH
+BAY at ORE
+BEL at HB
+BRO at GLE
+CAL at STJ
+CAN at SC
+CHE at MAT
+DEF at GRA
+LYD at FAI
+PSH at KEN
+RTH at LEI
+LOC at TRU
+STO at NI
+PRS at REST
+WOL at PAY
+RET at REST
+
+Day 139
+===========
+ASH at PAY
+BEL at BAY
+CHE at BRO
+CAL at SC
+CAN at HB
+DEF at KEN
+MAT at FAI
+GRA at GLE
+PRS at LEI
+LOC at TRU
+LYD at RTH
+PSH at NI
+ORE at WOL
+RET at WES
+STO at STJ
+
+Day 140
+===========
+SC at ASH
+WOL at BAY
+BEL at TRU
+BRO at STO
+CAN at CAL
+CHE at PRS
+MAT at DEF
+FAI at GRA
+GLE at REST
+HB at RET
+PSH at KEN
+NI at LEI
+LOC at ORE
+LYD at REST
+WES at PAY
+RTH at REST
+STJ at REST
+
+Day 141
+===========
+RET at ASH
+BAY at CAN
+BEL at WOL
+BRO at LYD
+CAL at STJ
+DEF at CHE
+FAI at GRA
+GLE at REST
+TRU at HB
+NI at KEN
+LEI at RTH
+SC at LOC
+PRS at MAT
+ORE at REST
+PSH at STO
+PAY at REST
+WES at REST
+
+Day 142
+===========
+ASH at RET
+BAY at CAN
+BEL at WOL
+GLE at BRO
+CAL at REST
+MAT at CHE
+DEF at KEN
+FAI at LYD
+LEI at GRA
+HB at TRU
+LOC at STJ
+NI at STO
+SC at ORE
+PSH at RTH
+PRS at REST
+PAY at REST
+WES at REST
+
+Day 143
+===========
+ASH at PAY
+BAY at TRU
+BEL at CAL
+BRO at CHE
+HB at CAN
+WOL at DEF
+KEN at FAI
+GLE at GRA
+RTH at LEI
+SC at LOC
+MAT at LYD
+NI at STO
+RET at ORE
+PSH at PRS
+STJ at REST
+WES at REST
+
+Day 144
+===========
+ASH at PAY
+WES at BAY
+LOC at BEL
+BRO at CHE
+CAL at WOL
+CAN at HB
+DEF at GLE
+FAI at REST
+LYD at GRA
+KEN at LEI
+RTH at MAT
+PRS at NI
+ORE at STJ
+PSH at STO
+RET at REST
+SC at REST
+TRU at REST
+
+Day 145
+===========
+WES at ASH
+CAN at BAY
+BEL at WOL
+FAI at BRO
+RET at CAL
+CHE at GRA
+DEF at GLE
+HB at STJ
+KEN at PRS
+LEI at LYD
+LOC at TRU
+MAT at RTH
+NI at STO
+SC at ORE
+PSH at REST
+PAY at REST
+
+Day 146
+===========
+RET at ASH
+TRU at BAY
+BEL at STJ
+BRO at FAI
+CAL at WOL
+CAN at SC
+CHE at LYD
+GLE at DEF
+LEI at GRA
+HB at REST
+PRS at KEN
+WES at LOC
+MAT at RTH
+NI at STO
+ORE at REST
+PSH at REST
+PAY at REST
+
+Day 147
+===========
+RET at ASH
+BAY at TRU
+BEL at WOL
+FAI at BRO
+CAN at CAL
+DEF at CHE
+GLE at REST
+KEN at GRA
+STJ at HB
+LEI at MAT
+WES at LOC
+LYD at PSH
+PRS at NI
+SC at ORE
+PAY at STO
+RTH at REST
+
+Day 148
+===========
+WES at ASH
+BAY at REST
+WOL at BEL
+GLE at BRO
+CAN at CAL
+LEI at CHE
+KEN at DEF
+FAI at REST
+LYD at GRA
+RET at HB
+LOC at REST
+RTH at MAT
+NI at PSH
+ORE at SC
+PRS at REST
+PAY at REST
+STJ at TRU
+STO at REST
+
+Day 149
+===========
+WES at ASH
+BAY at REST
+RET at BEL
+GLE at BRO
+CAL at WOL
+CAN at SC
+PRS at CHE
+DEF at REST
+FAI at REST
+GRA at LYD
+HB at REST
+NI at KEN
+MAT at LEI
+LOC at REST
+STJ at ORE
+RTH at PSH
+PAY at REST
+STO at REST
+TRU at REST
+
+Day 150
+===========
+ASH at REST
+BAY at WES
+BEL at REST
+BRO at REST
+CAL at RET
+CAN at REST
+CHE at REST
+GLE at DEF
+FAI at REST
+GRA at REST
+HB at SC
+KEN at REST
+MAT at LEI
+LOC at REST
+LYD at PSH
+NI at PRS
+ORE at STJ
+PAY at WOL
+STO at RTH
+TRU at REST
+
+Day 151
+===========
+ASH at REST
+BAY at WES
+BEL at REST
+BRO at REST
+CAL at REST
+CAN at REST
+CHE at REST
+DEF at REST
+FAI at GLE
+GRA at REST
+SC at HB
+KEN at REST
+LEI at REST
+LOC at REST
+NI at LYD
+MAT at PRS
+ORE at REST
+STO at PSH
+PAY at RET
+RTH at REST
+TRU at STJ
+WOL at REST
+
+Day 152
+===========
+ASH at REST
+BAY at REST
+BEL at REST
+BRO at REST
+CAL at REST
+CAN at REST
+CHE at REST
+DEF at REST
+GLE at FAI
+GRA at REST
+WOL at HB
+KEN at REST
+LEI at REST
+WES at LOC
+LYD at REST
+MAT at REST
+NI at RTH
+ORE at PRS
+PSH at STO
+PAY at SC
+STJ at RET
+TRU at REST
+
+Day 153
+===========
+ASH at REST
+BAY at REST
+BEL at REST
+BRO at REST
+CAL at REST
+CAN at REST
+CHE at REST
+DEF at REST
+FAI at GLE
+GRA at REST
+HB at REST
+KEN at REST
+LEI at REST
+WES at LOC
+LYD at REST
+MAT at REST
+NI at RTH
+ORE at REST
+PRS at PSH
+WOL at PAY
+RET at REST
+SC at REST
+TRU at STJ
+STO at REST
+
+Day 154
+===========
+ASH at REST
+BAY at REST
+BEL at REST
+BRO at REST
+CAL at REST
+CAN at REST
+CHE at REST
+DEF at REST
+FAI at REST
+GLE at REST
+GRA at REST
+HB at REST
+KEN at REST
+LEI at REST
+WES at LOC
+LYD at REST
+MAT at REST
+RTH at NI
+ORE at REST
+STO at PSH
+PRS at REST
+SC at PAY
+RET at REST
+WOL at STJ
+TRU at REST
+
+Day 155
+===========
+ASH at REST
+BAY at REST
+BEL at REST
+BRO at REST
+CAL at REST
+CAN at REST
+CHE at REST
+DEF at REST
+FAI at REST
+GLE at REST
+GRA at REST
+HB at REST
+KEN at REST
+LEI at REST
+LOC at REST
+LYD at REST
+MAT at REST
+PSH at NI
+ORE at REST
+RTH at PRS
+WOL at PAY
+RET at REST
+SC at WES
+TRU at STJ
+STO at REST
+
+Day 156
+===========
+ASH at REST
+BAY at REST
+BEL at REST
+BRO at REST
+CAL at REST
+CAN at REST
+CHE at REST
+DEF at REST
+FAI at REST
+GLE at REST
+GRA at REST
+HB at REST
+KEN at REST
+LEI at REST
+LOC at REST
+LYD at REST
+MAT at REST
+NI at PSH
+ORE at REST
+PRS at REST
+PAY at SC
+RET at REST
+STO at RTH
+STJ at REST
+WES at TRU
+WOL at REST
+
+Day 157
+===========
+ASH at REST
+BAY at REST
+BEL at REST
+BRO at REST
+CAL at REST
+CAN at REST
+CHE at REST
+DEF at REST
+FAI at REST
+GLE at REST
+GRA at REST
+HB at REST
+KEN at REST
+LEI at REST
+LOC at REST
+LYD at REST
+MAT at REST
+RTH at NI
+ORE at REST
+PSH at STO
+PRS at REST
+PAY at REST
+RET at REST
+SC at WES
+STJ at REST
+TRU at WOL
+
+Day 158
+===========
+ASH at REST
+BAY at REST
+BEL at REST
+BRO at REST
+CAL at REST
+CAN at REST
+CHE at REST
+DEF at REST
+FAI at REST
+GLE at REST
+GRA at REST
+HB at REST
+KEN at REST
+LEI at REST
+LOC at REST
+LYD at REST
+MAT at REST
+RTH at NI
+ORE at REST
+PSH at PRS
+PAY at REST
+RET at REST
+SC at REST
+STJ at REST
+STO at REST
+WES at TRU
+WOL at REST
+
+Day 159
+===========
+ASH at REST
+BAY at REST
+BEL at REST
+BRO at REST
+CAL at REST
+CAN at REST
+CHE at REST
+DEF at REST
+FAI at REST
+GLE at REST
+GRA at REST
+HB at REST
+KEN at REST
+LEI at REST
+LOC at REST
+LYD at REST
+MAT at REST
+NI at RTH
+ORE at REST
+PRS at PSH
+PAY at REST
+RET at REST
+SC at REST
+STJ at REST
+STO at REST
+TRU at WES
+WOL at REST
+
+Day 160
+===========
+ASH at REST
+BAY at REST
+BEL at REST
+BRO at REST
+CAL at REST
+CAN at REST
+CHE at REST
+DEF at REST
+FAI at REST
+GLE at REST
+GRA at REST
+HB at REST
+KEN at REST
+LEI at REST
+LOC at REST
+LYD at REST
+MAT at REST
+NI at REST
+ORE at REST
+PSH at PRS
+PAY at REST
+RET at REST
+RTH at STO
+SC at REST
+STJ at REST
+WOL at TRU
+WES at REST
+
+Day 161
+===========
+ASH at REST
+BAY at REST
+BEL at REST
+BRO at REST
+CAL at REST
+CAN at REST
+CHE at REST
+DEF at REST
+FAI at REST
+GLE at REST
+GRA at REST
+HB at REST
+KEN at REST
+LEI at REST
+LOC at REST
+LYD at REST
+MAT at REST
+NI at REST
+ORE at REST
+PSH at REST
+PRS at REST
+PAY at REST
+RET at REST
+RTH at STO
+SC at REST
+STJ at REST
+WOL at TRU
+WES at REST
+
+Day 162
+===========
+ASH at REST
+BAY at REST
+BEL at REST
+BRO at REST
+CAL at REST
+CAN at REST
+CHE at REST
+DEF at REST
+FAI at REST
+GLE at REST
+GRA at REST
+HB at REST
+KEN at REST
+LEI at REST
+LOC at REST
+LYD at REST
+MAT at REST
+NI at REST
+ORE at REST
+PSH at REST
+PRS at REST
+PAY at REST
+RET at REST
+STO at RTH
+SC at REST
+STJ at REST
+WOL at TRU
+WES at REST
+
+Day 163
+===========
+ASH at REST
+BAY at REST
+BEL at REST
+BRO at REST
+CAL at REST
+CAN at REST
+CHE at REST
+DEF at REST
+FAI at REST
+GLE at REST
+GRA at REST
+HB at REST
+KEN at REST
+LEI at REST
+LOC at REST
+LYD at REST
+MAT at REST
+NI at REST
+ORE at REST
+PSH at REST
+PRS at REST
+PAY at REST
+RET at REST
+RTH at REST
+SC at REST
+STJ at REST
+STO at REST
+TRU at WOL
+WES at REST
+
+Day 164
+===========
+ASH at REST
+BAY at REST
+BEL at REST
+BRO at REST
+CAL at REST
+CAN at REST
+CHE at REST
+DEF at REST
+FAI at REST
+GLE at REST
+GRA at REST
+HB at REST
+KEN at REST
+LEI at REST
+LOC at REST
+LYD at REST
+MAT at REST
+NI at REST
+ORE at REST
+PSH at REST
+PRS at REST
+PAY at REST
+RET at REST
+RTH at REST
+SC at REST
+STJ at REST
+STO at REST
+WOL at TRU
+WES at REST
+
+Day 165
+===========
+ASH at REST
+BAY at REST
+BEL at REST
+BRO at REST
+CAL at REST
+CAN at REST
+CHE at REST
+DEF at REST
+FAI at REST
+GLE at REST
+GRA at REST
+HB at REST
+KEN at REST
+LEI at REST
+LOC at REST
+LYD at REST
+MAT at REST
+NI at REST
+ORE at REST
+PSH at REST
+PRS at REST
+PAY at REST
+RET at REST
+RTH at REST
+SC at REST
+STJ at REST
+STO at REST
+WOL at TRU
+WES at REST
+
+Day 166
+===========
+ASH at REST
+BAY at REST
+BEL at REST
+BRO at REST
+CAL at REST
+CAN at REST
+CHE at REST
+DEF at REST
+FAI at REST
+GLE at REST
+GRA at REST
+HB at REST
+KEN at REST
+LEI at REST
+LOC at REST
+LYD at REST
+MAT at REST
+NI at REST
+ORE at REST
+PSH at REST
+PRS at REST
+PAY at REST
+RET at REST
+RTH at REST
+SC at REST
+STJ at REST
+STO at REST
+TRU at REST
+WOL at WES
+
+Day 167
+===========
+ASH at REST
+BAY at REST
+BEL at REST
+BRO at REST
+CAL at REST
+CAN at REST
+CHE at REST
+DEF at REST
+FAI at REST
+GLE at REST
+GRA at REST
+HB at REST
+KEN at REST
+LEI at REST
+LOC at REST
+LYD at REST
+MAT at REST
+NI at REST
+ORE at REST
+PSH at REST
+PRS at REST
+PAY at REST
+RET at REST
+RTH at REST
+SC at REST
+STJ at REST
+STO at REST
+TRU at REST
+WES at WOL
+
+Day 168
+===========
+ASH at REST
+BAY at REST
+BEL at REST
+BRO at REST
+CAL at REST
+CAN at REST
+CHE at REST
+DEF at REST
+FAI at REST
+GLE at REST
+GRA at REST
+HB at REST
+KEN at REST
+LEI at REST
+LOC at REST
+LYD at REST
+MAT at REST
+NI at REST
+ORE at REST
+PSH at REST
+PRS at REST
+PAY at REST
+RET at REST
+RTH at REST
+SC at REST
+STJ at REST
+STO at REST
+TRU at REST
+WES at WOL
+
+Day 169
+===========
+ASH at REST
+BAY at REST
+BEL at REST
+BRO at REST
+CAL at REST
+CAN at REST
+CHE at REST
+DEF at REST
+FAI at REST
+GLE at REST
+GRA at REST
+HB at REST
+KEN at REST
+LEI at REST
+LOC at REST
+LYD at REST
+MAT at REST
+NI at REST
+ORE at REST
+PSH at REST
+PRS at REST
+PAY at REST
+RET at REST
+RTH at REST
+SC at REST
+STJ at REST
+STO at REST
+TRU at REST
+WES at REST
+WOL at REST
+
+Day 170
+===========
+ASH at REST
+BAY at REST
+BEL at REST
+BRO at REST
+CAL at REST
+CAN at REST
+CHE at REST
+DEF at REST
+FAI at REST
+GLE at REST
+GRA at REST
+HB at REST
+KEN at REST
+LEI at REST
+LOC at REST
+LYD at REST
+MAT at REST
+NI at REST
+ORE at REST
+PSH at REST
+PRS at REST
+PAY at REST
+RET at REST
+RTH at REST
+SC at REST
+STJ at REST
+STO at REST
+TRU at REST
+WES at REST
+WOL at REST
+
+Day 171
+===========
+ASH at REST
+BAY at REST
+BEL at REST
+BRO at REST
+CAL at REST
+CAN at REST
+CHE at REST
+DEF at REST
+FAI at REST
+GLE at REST
+GRA at REST
+HB at REST
+KEN at REST
+LEI at REST
+LOC at REST
+LYD at REST
+MAT at REST
+NI at REST
+ORE at REST
+PSH at REST
+PRS at REST
+PAY at REST
+RET at REST
+RTH at REST
+SC at REST
+STJ at REST
+STO at REST
+TRU at REST
+WES at REST
+WOL at REST
+
+Day 172
+===========
+ASH at REST
+BAY at REST
+BEL at REST
+BRO at REST
+CAL at REST
+CAN at REST
+CHE at REST
+DEF at REST
+FAI at REST
+GLE at REST
+GRA at REST
+HB at REST
+KEN at REST
+LEI at REST
+LOC at REST
+LYD at REST
+MAT at REST
+NI at REST
+ORE at REST
+PSH at REST
+PRS at REST
+PAY at REST
+RET at REST
+RTH at REST
+SC at REST
+STJ at REST
+STO at REST
+TRU at REST
+WES at REST
+WOL at REST
+
+Day 173
+===========
+ASH at REST
+BAY at REST
+BEL at REST
+BRO at REST
+CAL at REST
+CAN at REST
+CHE at REST
+DEF at REST
+FAI at REST
+GLE at REST
+GRA at REST
+HB at REST
+KEN at REST
+LEI at REST
+LOC at REST
+LYD at REST
+MAT at REST
+NI at REST
+ORE at REST
+PSH at REST
+PRS at REST
+PAY at REST
+RET at REST
+RTH at REST
+SC at REST
+STJ at REST
+STO at REST
+TRU at REST
+WES at REST
+WOL at REST
+
+Day 174
+===========
+ASH at REST
+BAY at REST
+BEL at REST
+BRO at REST
+CAL at REST
+CAN at REST
+CHE at REST
+DEF at REST
+FAI at REST
+GLE at REST
+GRA at REST
+HB at REST
+KEN at REST
+LEI at REST
+LOC at REST
+LYD at REST
+MAT at REST
+NI at REST
+ORE at REST
+PSH at REST
+PRS at REST
+PAY at REST
+RET at REST
+RTH at REST
+SC at REST
+STJ at REST
+STO at REST
+TRU at REST
+WES at REST
+WOL at REST
+
+Day 175
+===========
+ASH at REST
+BAY at REST
+BEL at REST
+BRO at REST
+CAL at REST
+CAN at REST
+CHE at REST
+DEF at REST
+FAI at REST
+GLE at REST
+GRA at REST
+HB at REST
+KEN at REST
+LEI at REST
+LOC at REST
+LYD at REST
+MAT at REST
+NI at REST
+ORE at REST
+PSH at REST
+PRS at REST
+PAY at REST
+RET at REST
+RTH at REST
+SC at REST
+STJ at REST
+STO at REST
+TRU at REST
+WES at REST
+WOL at REST
+
+Day 176
+===========
+ASH at REST
+BAY at REST
+BEL at REST
+BRO at REST
+CAL at REST
+CAN at REST
+CHE at REST
+DEF at REST
+FAI at REST
+GLE at REST
+GRA at REST
+HB at REST
+KEN at REST
+LEI at REST
+LOC at REST
+LYD at REST
+MAT at REST
+NI at REST
+ORE at REST
+PSH at REST
+PRS at REST
+PAY at REST
+RET at REST
+RTH at REST
+SC at REST
+STJ at REST
+STO at REST
+TRU at REST
+WES at REST
+WOL at REST
+
+Day 177
+===========
+ASH at REST
+BAY at REST
+BEL at REST
+BRO at REST
+CAL at REST
+CAN at REST
+CHE at REST
+DEF at REST
+FAI at REST
+GLE at REST
+GRA at REST
+HB at REST
+KEN at REST
+LEI at REST
+LOC at REST
+LYD at REST
+MAT at REST
+NI at REST
+ORE at REST
+PSH at REST
+PRS at REST
+PAY at REST
+RET at REST
+RTH at REST
+SC at REST
+STJ at REST
+STO at REST
+TRU at REST
+WES at REST
+WOL at REST
+
+Day 178
+===========
+ASH at REST
+BAY at REST
+BEL at REST
+BRO at REST
+CAL at REST
+CAN at REST
+CHE at REST
+DEF at REST
+FAI at REST
+GLE at REST
+GRA at REST
+HB at REST
+KEN at REST
+LEI at REST
+LOC at REST
+LYD at REST
+MAT at REST
+NI at REST
+ORE at REST
+PSH at REST
+PRS at REST
+PAY at REST
+RET at REST
+RTH at REST
+SC at REST
+STJ at REST
+STO at REST
+TRU at REST
+WES at REST
+WOL at REST
+
+Day 179
+===========
+ASH at REST
+BAY at REST
+BEL at REST
+BRO at REST
+CAL at REST
+CAN at REST
+CHE at REST
+DEF at REST
+FAI at REST
+GLE at REST
+GRA at REST
+HB at REST
+KEN at REST
+LEI at REST
+LOC at REST
+LYD at REST
+MAT at REST
+NI at REST
+ORE at REST
+PSH at REST
+PRS at REST
+PAY at REST
+RET at REST
+RTH at REST
+SC at REST
+STJ at REST
+STO at REST
+TRU at REST
+WES at REST
+WOL at REST
+
