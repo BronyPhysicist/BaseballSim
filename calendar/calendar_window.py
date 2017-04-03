@@ -18,12 +18,12 @@ class Handler():
     	Gtk.main_quit(*args)
 
     def on_prev_clicked(self, button):
-    	start_new_month = cal.prev_month(self.start_cur_month)
+    	start_new_month = Date.prev_month(self.start_cur_month)
     	cal.render_calendar(start_new_month, builder)
     	self.start_cur_month = start_new_month
 
     def on_next_clicked(self, button):
-    	start_new_month = cal.next_month(self.start_cur_month)
+    	start_new_month = Date.next_month(self.start_cur_month)
     	cal.render_calendar(start_new_month, builder)
     	self.start_cur_month = start_new_month
 
