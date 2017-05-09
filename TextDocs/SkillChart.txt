@@ -1,0 +1,64 @@
+Cateogrized Skills
+==================
+				|                                 
+ARM STRENGTH	|Throw Range, Throw Speed, Throw Acc
+				|                                             
+C DEF SKILLS 	|Glove, Throw Speed, Throw Acc, Reaction, Awareness
+				|                                                             
+INF DEF SKILLS 	|Throw Speed, Reaction, Speed, Glove, Awareness, Throw Acc, Jump
+				|                                                                        
+OUT DEF SKILLS 	|Field Range, Glove, Speed, Awareness, Accel, Reaction, Throw Acc, Jump
+				|                          
+SPEED			|Speed, Accel, Slide
+				|                                    
+HITTING ABILITY	|Contact, Bat Speed, Power, Pitch Rec
+				|                       
+HITTING POWER	|Power, Contact
+				|                      
+LEADERSHIP		|Judgment, Memory, Composure
+				|                                              
+INSTINCTS		|Awareness, Judgement, Reaction, Patience, Memory
+
+=======================================================================================
+
+C: ARM STRENGTH, C DEF SKILLS, HITTING ABILITY, LEADERSHIP, SPEED
+Throw Speed, Glove, Throw Acc, Throw Range, Reaction, Judgment, Awareness, Contact, Bat Speed, Memory, Power, Composure, Pitch Rec, Speed, Accel, Slide
+
+1B/3B: HITTING ABILITY, HITTING POWER, ARM STRENGTH, SPEED
+Contact, Power, Bat Speed, Throw Speed, Pitch Rec, Throw Acc, Throw Range, Speed, Accel, Slide, Glove, Reaction
+
+2B/SS: ARM STRENGTH, INF DEF SKILLS, SPEED, HITTING ABILITY
+Throw Speed, Throw Acc, Reaction, Speed, Glove, Awareness, Throw Range, Accel, Jump, Contact, Bat Speed, Pitch Rec, Power
+
+LF: HITTING ABILITY, HITTING FOR POWER, SPEED, OUT DEF SKILLS, ARM STRENGTH
+Contact, Power, Bat Speed, Speed, Accel, Field Range, Glove, Throw Range, Throw Speed, Throw Acc, Awareness, Reaction, Throw Acc, Slide, Jump
+
+CF: OUT DEF SKILLS, SPEED, INSTINCTS, HITTING ABILITY, ARM STRENGTH
+Field Range, Glove, Speed, Awareness, Reaction, Accel, Judgment, Contact, Bat Speed, Patience, Jump, Slide, Throw Acc, Throw Range, Throw Speed
+
+RF: HITTING ABILITY, HITTING POWER, ARM STRENGTH, OUT DEF SKILLS, SPEED
+Contact, Bat Speed, Throw Range, Throw Speed, Throw Acc, Power, Field Range, Glove, Speed, Awareness, Reaction, Accel, Pitch Rec, Jump, Slide
+
+
+
+PITCH SKILLS
+============
+Stamina
+Arm Strength
+Arm Speed
+Pitch Acc
+Spin
+Focus
+Pickoff
+
+SP
+Stamina, Arm Strength, Pitch Acc, Spin, Focus, Judgment, Composure, Arm Speed, Awareness, Pickoff, Speed, Glove
+
+LR
+Arm Strength, Pitch Acc, Judgment, Composure, Stamina, Focus, Spin, Arm Speed, Awareness, Pickoff, Speed, Glove
+
+MR
+Arm Speed, Composure, Focus, Arm Strength, Judgment, Pitch Acc, Spin, Stamina, Awareness, Pickoff, Speed, Glove
+
+CL
+Arm Speed, Composure, Focus, Judgment, Awareness, Arm Strength, Pitch Acc, Spin, Stamina, Pickoff, Speed, Glove

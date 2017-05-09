@@ -1,0 +1,26 @@
+Team Jobs to Fill
+===============================
+Subset 1 (Coaches)
+-------------------------------
+Bench Coach - Can be asked for suggestions
+First Base Coach - Improves likelihood of double + stealing
+Third Base Coach - Improves likelihood of scoring
+Hitting Coach - Over time, hitters get a bonus to average and power
+Pitching Coach - Over time, pitchers get a boost to pitch speed and accuracy
+Bullpen Coach - Pitchers get warmed up faster, stay warmed up longer
+S&C Coach - Over time all players get small boosts to physical attributes
+Trainer - Over time all players get small boosts to mental attributes
+
+Subset 2 (Staff)
+-------------------------------
+Doctor/Nurse - Injuries suffered by team automatically slightly less severe
+Physical Therapist - Injured players return to field slightly faster
+Journalist - Helps spread the word of your team's performance, increases attendance
+Marketer - Bonus to number of merchandise sales
+Groundskeeper - Decreases probability of errors from your fielders/fines from the league
+Broadcaster - Increases fan base when winning
+PR Person - Prevents loss of fans during crises, and heavy losses, keeps reputation high
+Retailer - Bonus to merchandise cost
+Accountant - Saves money on staff hirings, facility upkeep, and facility improvements
+Data Analyst - Gleams capabilities of other teams' players, advises bench coach
+Scout - Will occasionally find new prospects to hire, gets good contracts on draft
