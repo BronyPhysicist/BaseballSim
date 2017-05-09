@@ -14,7 +14,13 @@ Latest change (2017/04/02)
 
 -Added calendar functionality to quickly count dates between years.
 
+<<<<<<< HEAD
 
 <3,
 
 ~BP
+=======
+<3,
+
+~BP
+>>>>>>> d0c557f77391baf9032db71e04b918a963bcfbf9
