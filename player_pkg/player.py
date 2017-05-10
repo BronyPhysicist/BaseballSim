@@ -69,6 +69,7 @@ class Player():
 		info += ',' + str(self.bats()) + ',' + str(self.throws())
 		#info += ',' + str(self.caps()) + ',' + str(self.pos_caps())
 		info += ',' + str(self.contract())
+		info += ',Ovr: ' + str(self.overall_rating())
 		return info
 
 def generate_player():

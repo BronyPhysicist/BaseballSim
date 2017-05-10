@@ -12,7 +12,8 @@ import matplotlib.pyplot as plt
 MAX_VALUE = 100
 MIN_VALUE = 12
 
-distro_set = [(20, 36), (36, 66), (50, 83), (72,94), (85, 103), (95, 110)]
+#Emprically determined
+distro_set = [(30, 60), (36, 90), (56, 120), (74, 130), (86, 125), (94, 145)]
 
 def distro(val, n, x_max):
 	a = n*1.0/(x_max - n)
@@ -84,7 +85,7 @@ def redistribute(value):
 #	print('Distro at x=' + str(i) + ': ' + str(distro(i, n, x_max)))
 
 
-plot_different_distros(distro_set)
+#plot_different_distros(distro_set)
 
 #for i in range(0, 100):
 #	print(rand_skill_seed(n, x_max))
