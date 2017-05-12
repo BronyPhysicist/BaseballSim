@@ -40,7 +40,7 @@ from position import Pos
 def parameters():
 	#weights = [0.03, 0.06, 0.08, 0.12, 0.31, 0.4]
 	#weights = normalize([4, 3, 3, 4, 8, 12])
-	weights = normalize([7, 4, 9, 16, 25, 36])
+	weights = normalize([7, 8, 9, 16, 25, 36])
 	r = random()
 	for i in range(0, len(weights)):
 		if r < sum(weights[:(i+1)]): return distro_set[i]

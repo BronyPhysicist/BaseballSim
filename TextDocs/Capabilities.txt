@@ -21,8 +21,8 @@ Ego			|Self-Effacing	Humble		Considerate	Braggart	Egomaniac
 Discipline	|Meticulous		Trained		Easygoing	Unruly		Wild
 Temper		|Submissive		Accepting	Mild		Belligerent	Explosive
 Tolerance	|Welcoming		Open-Minded	Indifferent	Prejudiced	Bigoted
-Attitude	|Cheery			Happy		Positive	Gloomy		Morose
-Personality	|Magnetic		Affable		Ordinary	Abrasive	Boorish
+Optimism	|Cheery			Happy		Positive	Gloomy		Morose
+Charm		|Magnetic		Affable		Ordinary	Abrasive	Boorish
 Leadership	|Dominant		Influential	Respected	Subordinate	Ineffectual
 Religion	|Atheist		Agnostic	Spiritual	Faithful	Zealot
 Intellect	|Brilliant		Educated	Thoughtful	Obtuse		Ignorant

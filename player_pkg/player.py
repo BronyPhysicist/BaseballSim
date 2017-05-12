@@ -34,16 +34,19 @@ sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'teams'))
 from team import get_FA
 from contract import Contract
 
+from personality import Personality
+
 class Player():
 
 	#contains name, pos, height, weight, birthdate, bats, throws, caps, pos_caps, team, contract
-	def __init__(self, n, p, h, w, bd, b, t, c, pc, ct):
+	def __init__(self, n, p, h, w, bd, b, t, c, pc, ct, ps):
 		self.nameK = 'name'; self.posK = 'pos'; self.heightK = 'height'; self.weightK = 'weight'; self.birthdateK = 'birthdate'
 		self.batsK = 'bats'; self.throwsK = 'throws'; self.capsK = 'caps'; self.pos_capsK = 'pos_caps'; self.contractK = 'contract'
+		self.persK = 'personality'
 
 		ess = {}
 		ess[self.nameK] = n; ess[self.posK] = p; ess[self.heightK] = h; ess[self.weightK] = w; ess[self.birthdateK] = bd; ess[self.batsK] = b;
-		ess[self.throwsK] = t; ess[self.capsK] = c; ess[self.pos_capsK] = pc; ess[self.contractK] = ct
+		ess[self.throwsK] = t; ess[self.capsK] = c; ess[self.pos_capsK] = pc; ess[self.contractK] = ct; ess[self.persK] = ps
 		self.ess_dict = ess
 
 	def name(self): return self.ess_dict[self.nameK]
@@ -57,6 +60,7 @@ class Player():
 	def pos_caps(self): return self.ess_dict[self.pos_capsK]
 	def team(self): return self.ess_dict[self.contractK].team()
 	def contract(self): return self.ess_dict[self.contractK]
+	def personality(self): return self.ess_dict[self.persK]
 
 	def overall_rating(self): return self.caps().overall_rating(self.pos())
 	def overall_rating_new_pos(self, pos): return self.caps().overall_rating(pos)
@@ -69,6 +73,7 @@ class Player():
 		info += ',' + str(self.bats()) + ',' + str(self.throws())
 		#info += ',' + str(self.caps()) + ',' + str(self.pos_caps())
 		info += ',' + str(self.contract())
+		info += ',' + str(self.personality())
 		info += ',Ovr: ' + str(self.overall_rating())
 		return info
 
@@ -96,5 +101,7 @@ def generate_player():
 	pos_caps = PositionCapabilities.generate_pos_caps(pos)
 
 	contract = Contract(get_FA(), 0, 0)
+
+	personality = Personality.rand_personality()
  
-	return Player(name, pos, height, weight, birthdate, bats, throws, caps, pos_caps, contract)
+	return Player(name, pos, height, weight, birthdate, bats, throws, caps, pos_caps, contract, personality)

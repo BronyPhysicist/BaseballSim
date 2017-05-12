@@ -8,7 +8,7 @@ def generate_league(n_players):
 	league = sorted(league, key=lambda x: x.overall_rating(), reverse=True)
 	return league
 
-league = generate_league(300)
+league = generate_league(1200)
 
 f = open('league.txt', 'w+')
 
